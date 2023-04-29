@@ -24,7 +24,7 @@ class ProductsController extends Controller
         $products->name = $request->name;
         $products->description = $request->description;
         $products->price = $request->price;
-        $products->quantity = $request->quentity;
+        $products->quantity = $request->quantity;
         $products->save();
         return $products;
     }
@@ -46,7 +46,7 @@ class ProductsController extends Controller
         $products->name = $request->name;
         $products->description = $request->description;
         $products->price = $request->price;
-        $products->quantity = $request->quentity;
+        $products->quantity = $request->quantity;
         $products->save();
         return $products;
     }
