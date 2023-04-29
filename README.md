@@ -72,7 +72,7 @@ The MySQL database for this project consists of a single table called products w
     id: Unique identifier for the product (integer)
     name: Name of the product (string)
     description: Description of the product (string)
-    price: Price of the product (float)
+    price: Price of the product (deciml)
     quantity: Quantity of the product in stock (integer)
     created_at: Timestamp of when the product was created (datetime)
     updated_at: Timestamp of when the product was last updated (datetime)
@@ -80,10 +80,3 @@ The MySQL database for this project consists of a single table called products w
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/mrkumarvijay/Laravel-Ecommerce-API.git
-git push -u origin main
