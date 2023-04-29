@@ -15,7 +15,7 @@ To run this API, you will need the following installed on your system:
 
 1. Clone this repository using Git:
 
-       git clone https://github.com/mrkumarvijay/laravel-ecommerce-api.git
+       git clone https://github.com/mrkumarvijay/Laravel-Ecommerce-API.git
 
 2. Change into the project directory:
 
