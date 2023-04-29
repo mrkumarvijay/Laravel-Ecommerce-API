@@ -72,7 +72,7 @@ The MySQL database for this project consists of a single table called products w
     id: Unique identifier for the product (integer)
     name: Name of the product (string)
     description: Description of the product (string)
-    price: Price of the product (deciml)
+    price: Price of the product (decimal)
     quantity: Quantity of the product in stock (integer)
     created_at: Timestamp of when the product was created (datetime)
     updated_at: Timestamp of when the product was last updated (datetime)
